@@ -1,0 +1,1 @@
+awk "/error/ {print}" "$1"

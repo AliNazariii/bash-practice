@@ -1,0 +1,4 @@
+LEVEL error message 'failed to get file'
+LEVEL info message 'successful payment'
+LEVEL error message 'failed to send message'
+LEVEL warn message 'malformed request'
